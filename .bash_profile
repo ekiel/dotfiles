@@ -1,3 +1,5 @@
+# profile generated from http://xta.github.com/HalloweenBash/
+
 # host:basedir user
 #export PS1="\h:\W \u\$ " 
 
